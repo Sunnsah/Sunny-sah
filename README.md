@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Sunny Sah</h1>
-<h3 align="center">A passionate frontend And Backend developer from Nepal</h3>
+<h3 align="center">A passionate Full Stack developer from Nepal</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1187/1*0FqDC0_r1f5xFz3IywLYRA.jpeg">
 
 
